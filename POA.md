@@ -27,7 +27,7 @@ A Mobile Application to be implemented on both platforms(ios+Android) targeted a
 * [TensorFlow](https://www.tensorflow.org/get_started/)(Python) for Suggestion systems
 
 ## IntelMark
-> What is it/
+> What is it?
 
 The Web Application for IntelMark targeted at Brands and influencers.
 > Features and Actions(General & special)
