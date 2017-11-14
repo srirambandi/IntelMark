@@ -45,6 +45,6 @@ The Web Application for IntelMark targeted at Brands and influencers.
     + Ossa type implementation for influencers
 >Technologies
 * [React](https://reactjs.org/docs/hello-world.html) for UI
-* Ossa Technologies
+* Ossa's Technologies
 
 ## Timeline and Team Assignments are yet to come.
