@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="690px" height="53px" viewBox="0 0 690 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>timeline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Roadmaps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(-1130.000000, -813.000000)"></g>
+        <g id="A4" transform="translate(-85.000000, -508.000000)">
+            <text id="t-=-0" font-family="Lora-Italic, Lora" font-size="12.8000002" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="103.2" y="539.568882">t = 0</tspan>
+            </text>
+            <text id="Mass-Adoption" font-family="Lora-Italic, Lora" font-size="12.8000002" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="700.8" y="529.961102">Mass</tspan>
+                <tspan x="700.8" y="544.961102">Adoption</tspan>
+            </text>
+            <g id="Group" transform="translate(411.617504, 536.200000) rotate(-90.000000) translate(-411.617504, -536.200000) translate(404.417504, 267.582496)">
+                <path d="M10.0420149,540.21308 C10.4078606,540.609208 10.2435726,540.609208 10.6094184,540.21308 C10.9752642,539.816953 10.9752642,539.172991 10.6094184,538.776864 L5.24865211,533.304342 L10.6094184,527.831819 C10.9752642,527.435692 10.9752642,526.79173 10.6094184,526.395603 C10.2435726,525.999475 10.4078606,525.999475 10.0420149,526.395603 L3.95771805,532.503693 C3.77385709,532.702773 3.51619726,533.042288 3.51619726,533.304342 C3.51619726,533.566395 3.77385709,533.90591 3.95771805,534.10499 L10.0420149,540.21308 Z" id="Shape-copy-6" fill="#666666" transform="translate(7.200000, 533.304342) rotate(-90.000000) translate(-7.200000, -533.304342) "></path>
+                <path d="M6.66666667,0 L6.66666667,534.833063" id="Line-Copy" stroke="#666666" stroke-width="0.800000012" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3.200000047683716"></path>
+            </g>
+        </g>
+    </g>
+</svg>

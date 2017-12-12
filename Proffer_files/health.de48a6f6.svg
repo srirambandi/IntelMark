@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="65px" viewBox="0 0 56 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>health</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32 0 59.7128129 16.012966 59.7128129 48.0388979 32 64.0518639 4.28718708 48.0388979 4.28718708 16.012966"></polygon>
+        <polygon id="path-2" points="31.9724138 5.60453809 54.3724138 18.4149109 54.3724138 44.8363047 31.9724138 57.6466775 8.8 44.8363047 8.8 18.4149109"></polygon>
+    </defs>
+    <g id="Roadmaps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(-1553.000000, -529.000000)"></g>
+        <g id="A4" transform="translate(-508.000000, -224.000000)">
+            <g id="Group-5-Copy-2" transform="translate(504.000000, 224.139384)">
+                <g id="Polygon-Copy">
+                    <use fill="#FFE200" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFE200" stroke-width="0.800000012" d="M32,0.461973824 L59.3128129,16.2438125 L59.3128129,47.8080513 L32,63.58989 L4.68718708,47.8080513 L4.68718708,16.2438125 L32,0.461973824 Z"></path>
+                </g>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <g id="Polygon-Copy-2">
+                    <use fill="#FFA1A1" xlink:href="#path-2"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                </g>
+                <path d="M8.4,32.343387 C15.8432213,43.0354768 16.937752,23.7115042 19.6526045,23.7115042 C22.367457,23.7115042 23.8982176,41.477841 26.0643847,41.9652448 C28.2305518,42.4526485 29.3024567,14.8986118 31.6,14.2000192 C33.8975433,13.5014266 36.0363231,43.9359349 40.4549634,47.5221411 C44.8736037,51.1083472 45.7231331,28.6688574 48.6661392,24.6606257 C51.6091454,20.652394 54.8,32.343387 54.8,32.343387" id="Line" stroke="#8562D5" stroke-width="1.60000002" stroke-linecap="square" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

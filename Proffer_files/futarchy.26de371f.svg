@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="65px" viewBox="0 0 56 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>futarchy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Roadmaps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(-1749.000000, -529.000000)"></g>
+        <g id="A4" transform="translate(-704.000000, -224.000000)">
+            <g id="Group-9" transform="translate(699.000000, 224.000000)">
+                <polygon id="Polygon" fill="#FFE200" points="32.7999992 0 60.5128121 16.012966 60.5128121 48.0388979 32.7999992 64.0518639 5.08718629 48.0388979 5.08718629 16.012966"></polygon>
+                <g id="Group-2" transform="translate(8.799999, 6.000000)">
+                    <polygon id="Polygon-Copy-2" stroke="#1F1F1F" stroke-width="0.800000012" fill="#FFFFFF" points="24.4075472 2.00648298 45.6 14.0162075 45.6 38.8363047 24.4075472 50.8460292 2.4 38.8363047 2.4 14.0162075"></polygon>
+                    <ellipse id="Oval" fill="#1F1F1F" cx="24.4" cy="2.40680713" rx="2" ry="2.00162075"></ellipse>
+                    <ellipse id="Oval-Copy" fill="#1F1F1F" cx="45.2" cy="14.4165316" rx="2" ry="2.00162075"></ellipse>
+                    <ellipse id="Oval-Copy-2" fill="#1F1F1F" cx="45.2" cy="38.4359806" rx="2" ry="2.00162075"></ellipse>
+                    <ellipse id="Oval-Copy-3" fill="#1F1F1F" cx="24.4" cy="50.445705" rx="2" ry="2.00162075"></ellipse>
+                    <ellipse id="Oval-Copy-4" fill="#1F1F1F" cx="2.8" cy="38.4359806" rx="2" ry="2.00162075"></ellipse>
+                    <ellipse id="Oval-Copy-5" fill="#1F1F1F" cx="2.8" cy="15.2171799" rx="2" ry="2.00162075"></ellipse>
+                </g>
+                <g id="Group-2-Copy" transform="translate(31.116987, 35.781089) rotate(30.000000) translate(-31.116987, -35.781089) translate(16.116987, 23.281089)">
+                    <polygon id="Polygon-Copy-2" stroke="#1F1F1F" stroke-width="0.5" fill="#FFFFFF" points="28.55 1.46261582 15.7462264 23.6994893 2.45 1.46261582"></polygon>
+                    <ellipse id="Oval-Copy" fill="#1F1F1F" cx="28.3083333" cy="1.70432097" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-3" fill="#1F1F1F" cx="15.7416667" cy="23.4577842" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-5" fill="#1F1F1F" cx="2.19166667" cy="1.32170586" rx="1.20833333" ry="1.20852573"></ellipse>
+                </g>
+                <g id="Group-2-Copy-2" transform="translate(17.799999, 17.000000)">
+                    <polygon id="Polygon-Copy-2" stroke="#1F1F1F" stroke-width="0.5" points="28.55 8.46261582 15.7462264 30.6994893 2.52476065 9.09231677"></polygon>
+                    <polygon id="Polygon-Copy-3" stroke="#1F1F1F" stroke-width="0.5" transform="translate(18.537380, 17.581053) rotate(300.000000) translate(-18.537380, -17.581053) " points="31.55 6.46261582 18.7462264 28.6994893 5.52476065 7.09231677"></polygon>
+                    <polygon id="Polygon-Copy-7" stroke="#1F1F1F" stroke-width="0.5" transform="translate(12.392615, 15.581053) rotate(90.000000) translate(-12.392615, -15.581053) " points="25.4052346 4.31785042 12.9477698 26.8442547 -0.620004744 4.94755137"></polygon>
+                    <ellipse id="Oval" fill="#1F1F1F" cx="15.7416667" cy="1.45316657" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy" fill="#1F1F1F" cx="28.3083333" cy="8.70432097" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-2" fill="#1F1F1F" cx="28.3083333" cy="23.2066298" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-10" fill="#1F1F1F" cx="23.2083333" cy="28.2085257" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-11" fill="#1F1F1F" cx="23.2083333" cy="2.20852573" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-12" fill="#1F1F1F" cx="1.20833333" cy="16.2085257" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-3" fill="#1F1F1F" cx="15.7416667" cy="30.4577842" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-4" fill="#1F1F1F" cx="2.69166667" cy="23.2066298" rx="1.20833333" ry="1.20852573"></ellipse>
+                    <ellipse id="Oval-Copy-5" fill="#1F1F1F" cx="2.69166667" cy="9.18773126" rx="1.20833333" ry="1.20852573"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

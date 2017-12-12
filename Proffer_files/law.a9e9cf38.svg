@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="65px" viewBox="0 0 56 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>law</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32 0 59.7128129 16.012966 59.7128129 48.0388979 32 64.0518639 4.28718708 48.0388979 4.28718708 16.012966"></polygon>
+        <polygon id="path-2" points="32.4075472 7.20583468 53.6 19.2155592 53.6 44.0356564 32.4075472 56.0453809 10.4 44.0356564 10.4 19.2155592"></polygon>
+    </defs>
+    <g id="Roadmaps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(-1337.000000, -665.000000)"></g>
+        <g id="A4" transform="translate(-292.000000, -360.000000)">
+            <g id="Group-5" transform="translate(288.000000, 360.249595)">
+                <g id="Polygon-Copy">
+                    <use fill="#FFE200" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFE200" stroke-width="3.20000005" d="M32,1.8478953 L58.1128129,16.9363522 L58.1128129,47.1155116 L32,62.2039686 L5.8871871,47.1155116 L5.8871871,16.9363522 L32,1.8478953 Z"></path>
+                </g>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Polygon-Copy-2" fill="#FFFFFF" xlink:href="#path-2"></use>
+                <rect id="Rectangle-2" fill="#2489FF" mask="url(#mask-3)" x="22.4" y="23.2188006" width="3.2" height="12.2236282" rx="0.800000012"></rect>
+                <rect id="Rectangle-2-Copy-2" fill="#006CEB" mask="url(#mask-3)" x="39.2" y="23.2188006" width="3.2" height="12.2236282" rx="0.800000012"></rect>
+                <rect id="Rectangle-2-Copy-3" fill="#006CEB" mask="url(#mask-3)" x="31.2" y="36.0291734" width="3.2" height="20.8168558" rx="0.800000012"></rect>
+                <rect id="Rectangle-2-Copy-5" fill="#2589FF" mask="url(#mask-3)" x="31.2" y="36.0291734" width="1.6" height="20.8168558" rx="0.8"></rect>
+                <rect id="Rectangle-2-Copy" fill="#006CEB" mask="url(#mask-3)" x="26.4" y="23.2188006" width="12" height="12.2236282" rx="0.800000012"></rect>
+                <path d="M26.4,24.020827 C26.4,23.5778801 26.762429,23.2188006 27.1976241,23.2188006 L32.8,23.2188006 L32.8,35.4424289 L27.1976241,35.4424289 C26.7571085,35.4424289 26.4,35.0897821 26.4,34.6404025 L26.4,24.020827 Z" id="Rectangle-2-Copy-4" fill="#2489FF" mask="url(#mask-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

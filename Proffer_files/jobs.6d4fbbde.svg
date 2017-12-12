@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="65px" viewBox="0 0 56 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>jobs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32 0 59.7128129 16.012966 59.7128129 48.0388979 32 64.0518639 4.28718708 48.0388979 4.28718708 16.012966"></polygon>
+    </defs>
+    <g id="Roadmaps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(-1337.000000, -529.000000)"></g>
+        <g id="A4" transform="translate(-292.000000, -224.000000)">
+            <g id="Group-4" transform="translate(288.000000, 224.139384)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Polygon-Copy">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFE200" stroke-width="11.2000002" d="M32,6.46763354 L54.1128128,19.2448179 L54.1128128,44.807046 L32,57.5842303 L9.88718716,44.807046 L9.88718716,19.2448179 L32,6.46763354 Z"></path>
+                </g>
+                <polygon id="Polygon-Copy-5" fill="#006F65" mask="url(#mask-2)" points="32 12.8103728 38.4 46.7578606 32 53.643436 25.6 46.7578606"></polygon>
+                <polygon id="Polygon-Copy-6" fill="#006F65" mask="url(#mask-2)" points="34.8 8.00648298 32 12.4100486 29.2 8.07320367 32 4.80388979"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

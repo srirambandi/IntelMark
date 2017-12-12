@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="65px" viewBox="0 0 56 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>edu</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32 0 59.7128129 16.012966 59.7128129 48.0388979 32 64.0518639 4.28718708 48.0388979 4.28718708 16.012966"></polygon>
+        <polygon id="path-2" points="31.9724138 5.60453809 54.3724138 18.4149109 54.3724138 44.8363047 31.9724138 57.6466775 8.8 44.8363047 8.8 18.4149109"></polygon>
+    </defs>
+    <g id="Roadmaps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Heart" transform="translate(-1445.000000, -529.000000)"></g>
+        <g id="A4" transform="translate(-400.000000, -224.000000)">
+            <g id="Group-5-Copy" transform="translate(396.000000, 224.139384)">
+                <g id="Polygon-Copy">
+                    <use fill="#FFE200" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#FFE200" stroke-width="0.800000012" d="M32,0.461973824 L59.3128129,16.2438125 L59.3128129,47.8080513 L32,63.58989 L4.68718708,47.8080513 L4.68718708,16.2438125 L32,0.461973824 Z"></path>
+                </g>
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Polygon-Copy-2" fill="#FFFFFF" xlink:href="#path-2"></use>
+                <rect id="Rectangle-4" fill="#1F1F1F" mask="url(#mask-3)" x="20" y="0" width="50.4" height="60.8492707"></rect>
+                <text id="A+" mask="url(#mask-3)" font-family="Lora-BoldItalic, Lora" font-size="14.4000002" font-style="italic" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="25.9543999" y="38.2188006">A+</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

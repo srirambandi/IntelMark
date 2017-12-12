@@ -82,10 +82,10 @@ Participate in person (IIT Delhi) or remotely.
       <div>
 
          <div className="top-bar">
-           <button className="ossa"><NavLink to="/ossa">Ossa</NavLink></button>
-           <button className="BlogSymbol"><NavLink to="/blog">Blog</NavLink></button>
-           <button className="HackSymbol"><NavLink to="/hack">Hackthon</NavLink></button>
-          <button className="LoginSymbol"><NavLink to="/login">Login</NavLink></button>
+           <button className="ossa"><NavLink to="/ossa"></NavLink></button>
+           <button className="BlogSymbol"><NavLink to="/blog">BLOG</NavLink></button>
+           <button className="HackSymbol"><NavLink to="/hack">HACKATHON</NavLink></button>
+          <button className="LoginSymbol"><NavLink to="/login">LOGIN</NavLink></button>
           <button className="ossaSymbol"><NavLink to="/OssaSymbol"></NavLink></button>
           </div>
          <div className="content">

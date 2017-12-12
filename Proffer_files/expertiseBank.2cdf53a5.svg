@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="930px" height="596px" viewBox="0 0 930 596" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 3 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="98.0568399%" x2="50%" y2="-1.11022302e-14%" id="linearGradient-1">
+            <stop stop-color="#FBFBFB" offset="0%"></stop>
+            <stop stop-color="#F8F8F8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1,476 L930,476 L930,592.007385 C930,594.212445 928.199847,596 926.009986,596 L4.99001408,596 C2.78639015,596 1,594.210539 1,592.007385 L1,476 Z" id="path-2"></path>
+    </defs>
+    <g id="How-it-works-diagrams" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="url(#linearGradient-1)" x="-623" y="-1" width="1553" height="597"></rect>
+        <rect id="Rectangle-3-Copy" fill="#1E1E1E" x="0" y="0" width="930" height="596" rx="4"></rect>
+        <g id="Rectangle-3-Copy-2">
+            <use fill="#313131" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <path stroke="#1F1F1F" stroke-width="1" d="M1.5,476.5 L929.5,476.5 L929.5,592.007385 C929.5,593.931364 927.928651,595.5 926.009986,595.5 L4.99001408,595.5 C3.06330015,595.5 1.5,593.935165 1.5,592.007385 L1.5,476.5 Z"></path>
+        </g>
+        <text id="Proffer-tracks-exper" font-family="Lora-Regular, Lora" font-size="18" font-weight="normal" fill="#FFFFFF">
+            <tspan x="98.815" y="528">Proffer tracks expertise for each user in a global expertise bank on the blockchain </tspan>
+            <tspan x="243.301" y="550">that’s shared across applications and use cases.</tspan>
+        </text>
+        <g id="Group" transform="translate(133.000000, 89.000000)">
+            <rect id="Rectangle-4-Copy-16" fill="#313131" x="200.099448" y="0" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-19" fill="#313131" x="0" y="56.1" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-17" fill="#313131" x="200.099448" y="56.1" width="195.701657" height="51.7"></rect>
+            <text id="&lt;User1&gt;" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFFFFF">
+                <tspan x="60.4696133" y="85.2">&lt;User1&gt;</tspan>
+            </text>
+            <text id="110-Skill" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFE200">
+                <tspan x="250.674033" y="85.2">110 Skill</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-25" fill="#313131" x="0" y="108.9" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-24" fill="#313131" x="200.099448" y="108.9" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-27" fill="#313131" opacity="0.600000024" x="0" y="214.5" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-26" fill="#313131" opacity="0.600000024" x="200.099448" y="214.5" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-29" fill="#292929" opacity="0.5" x="0" y="267.3" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-28" fill="#292929" opacity="0.5" x="200.099448" y="267.3" width="195.701657" height="51.7"></rect>
+            <text id="&lt;User2&gt;" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFFFFF">
+                <tspan x="60.4696133" y="139.1">&lt;User2&gt;</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-31" fill="#313131" x="0" y="161.7" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-30" fill="#313131" x="200.099448" y="161.7" width="195.701657" height="51.7"></rect>
+            <text id="&lt;User3&gt;" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFFFFF">
+                <tspan x="60.4696133" y="191.9">&lt;User3&gt;</tspan>
+            </text>
+            <text id="29-Skill-Copy" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFE200">
+                <tspan x="256.171271" y="191.9">29 Skill</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-20" fill="#313131" x="400.198895" y="0" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-18" fill="#313131" x="400.198895" y="56.1" width="195.701657" height="51.7"></rect>
+            <text id="68-Skill" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFE200">
+                <tspan x="456.270718" y="85.2">68 Skill</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-35" fill="#313131" x="400.198895" y="108.9" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-34" fill="#313131" opacity="0.600000024" x="400.198895" y="214.5" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-33" fill="#292929" opacity="0.5" x="400.198895" y="267.3" width="195.701657" height="51.7"></rect>
+            <text id="189-Skill" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFE200">
+                <tspan x="450.773481" y="139.1">189 Skill</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-32" fill="#313131" x="400.198895" y="161.7" width="195.701657" height="51.7"></rect>
+            <text id="10-Skill" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFE200">
+                <tspan x="456.270718" y="191.9">10 Skill</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-22" fill="#313131" x="600.298343" y="0" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-21" fill="#313131" x="600.298343" y="56.1" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-39" fill="#313131" x="600.298343" y="108.9" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-38" fill="#313131" opacity="0.600000024" x="600.298343" y="214.5" width="195.701657" height="51.7"></rect>
+            <rect id="Rectangle-4-Copy-37" fill="#292929" opacity="0.5" x="600.298343" y="267.3" width="195.701657" height="51.7"></rect>
+            <text id="210-Skill" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFE200">
+                <tspan x="650.872928" y="139.1">210 Skill</tspan>
+            </text>
+            <rect id="Rectangle-4-Copy-36" fill="#313131" x="600.298343" y="161.7" width="195.701657" height="51.7"></rect>
+            <text id="Solidity" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFFFFF">
+                <tspan x="256.171271" y="31.3">Solidity</tspan>
+            </text>
+            <text id="Physics" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFFFFF">
+                <tspan x="460.668508" y="32.4">Physics</tspan>
+            </text>
+            <text id="Cardiology" font-family="SourceCodePro-Regular, Source Code Pro" font-size="17.6000004" font-weight="normal" fill="#FFFFFF">
+                <tspan x="645.375691" y="31.3">Cardiology</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

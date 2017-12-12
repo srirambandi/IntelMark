@@ -3,40 +3,88 @@ import  './App.css';
 class Blog extends React.Component {
   render() {
     return (
-      <div>
-
-        <div>
-
-          <div className="wholepage">
-
-
-
-            <div className="middle-bar">
-              <text className="textinside">INTELMARK?</text>
-                  <text className="textinside1">OSSA?</text>
-            </div>
-            <div className="white">
-            </div>
-            <rectangle className="white-item">
-            <div className="inside-white1">GENERATING BLOCKCHAIN</div>
-            <div className="inside-white2">Build with Proffer @ Hackathon & Summit, Nov 10-13</div>
-            <div className="inside-white3">$17,000 in prizes for your blockchain apps and smart contracts.
-    Participate in person (IIT Delhi) or remotely.
-    </div>
-
-
-            </rectangle>
-
-           </div>
-
-
-
-
-           </div>
-           </div>
+      
 
     );
   }
 }
 
 export default Blog
+/*.textinside{
+  width:240px;
+  height:90px;
+  background: transparent;
+border-color: blue;
+border-style: solid;
+  font-size: 28px;
+  color: blue;
+  border-radius: 20px;
+  font-style: italic;
+  text-align: center;
+  line-height: 90px;
+  position: absolute;
+  top: 52%;
+  right: 30.72%;
+  opacity: 1;
+  transform-style: preserve-3d;
+  transition: 2s ease;
+}
+.textinside1{
+  width:240px;
+  height:90px;
+  background: white;
+border-color: blue;
+  font-size: 28px;
+  border-style: solid;
+  color: blue;
+  border-radius: 20px;
+  font-style: italic;
+  text-align: center;
+  line-height: 90px;
+  position: absolute;
+  top: 52%;
+  right: 50.72%;
+  opacity: 1;
+  transform-style: preserve-3d;
+  transition: 2s ease;
+}
+.textinside:after{
+  top: -320%;
+	left: 0px;
+	width: 100%;
+	position: absolute;
+	background: transparent;
+
+  border-style: solid;
+	border-radius: 20px;
+  font-size: 20px;
+	content: 'Proffer is a search engine for information that isn’t online.';
+	transform-origin: left bottom;
+	transform: rotateX(90deg);
+  transition: 2s ease;
+}
+.textinside1:after{
+  top: -320%;
+	left: 0px;
+	width: 100%;
+	position: absolute;
+	background: transparent;
+  border-style: solid;
+	border-radius: 20px;
+  font-size: 20px;
+	content: 'A Blockchain Protocol for Search with Expert Networks';
+	transform-origin: left bottom;
+	transform: rotateX(90deg);
+  transition: 2s ease;
+}
+.textinside1:hover{
+  transform-origin: center bottom;
+	transform: rotateX(-90deg) translateX(-100%);
+  transition: 2s ease;
+}
+.textinside:hover{
+  transform-origin: center bottom;
+	transform: rotateX(-90deg) translateX(100%);
+  transition: 2s ease;
+}
+*/
