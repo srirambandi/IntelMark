@@ -1,0 +1,236 @@
+.top-bar
+{
+  height: 5000px;
+  width:auto;
+  height : 100px;
+  background-color: grey;
+
+  margin-bottom: 900px;
+  position: static;
+}
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #4CAF50;
+    border: 3px dotted #3a7999; /* Green */
+    color: white;
+}
+.ossa:hover{
+  background: rgba(0,0,0,0);
+color: white;
+border: 3px dotted #3a7999;
+}
+
+.ossa{
+  width:70px;
+  transition: all 2s ease;
+  content: '';
+  height:50px;
+  background: rgba(255,255,255,0.3);
+border: transparent;
+  color: yellow;
+  font-size: 17px;
+  font-style: italic;
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  position: absolute;
+  top: 20px;
+  left:65px;
+}
+.ossaSymbol{
+  width:70px;
+  height:50px;
+  color: yellow;
+  background: transparent;
+border: transparent;
+  font-size: 30px;
+  background-image: url('logo.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  top: 20px;
+  position: absolute;
+  text-align: center;
+  left: 0px;
+}
+.HomeSymbol:hover
+{
+  background: rgba(0,0,0,0);
+color: white;
+border: 3px dotted #3a7999;
+}
+
+.HomeSymbol{
+  transition: all 2s ease;
+  content: '';
+  border-radius: 10px;
+  background: rgba(255,255,255,0.3);
+  width:80px;
+  height:50px;
+  color: yellow;
+border: transparent;
+  font-size: 17px;
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  position: absolute;
+  top: 20px;
+  right: 500px;
+}
+.BlogSymbol:hover
+{
+  background: rgba(0,0,0,0);
+color: white;
+border: 3px dotted #3a7999;
+}
+
+.BlogSymbol{
+  transition: all 2s ease;
+  content: '';
+  border-radius: 10px;
+  background: rgba(255,255,255,0.3);
+  width:80px;
+  height:50px;
+  color: yellow;
+border: transparent;
+  font-size: 17px;
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  top: 20px;
+  right: 390px;
+}
+.LoginSymbol:hover
+{
+  background: rgba(0,0,0,0);
+color: white;
+border: 3px dotted #3a7999;
+}
+
+.LoginSymbol{
+  transition: all 2s ease;
+  content: '';
+  border-radius: 10px;
+  background: rgba(255,255,255,0.3);
+  width:80px;
+  height:50px;
+  color: yellow;
+border: transparent;
+  font-size: 17px;
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  top: 20px;
+  right: 150px;
+}
+.HackSymbol:hover
+{
+  background: rgba(0,0,0,0);
+color: white;
+border: 3px dotted #3a7999;
+}
+
+.HackSymbol{
+  transition: all 2s ease;
+  content: '';
+  border-radius: 10px;
+  background: rgba(255,255,255,0.3);
+  width:100px;
+  height:50px;
+  color: yellow;
+border: transparent;
+  font-size: 17px;
+  font-style: italic;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: absolute;
+  top: 20px;
+  right: 260px;
+}
+
+.textinside{
+  width:240px;
+  height:90px;
+  background: white;
+border-color: yellow;
+  font-size: 28px;
+  color: yellow;
+  border-radius: 20px;
+  font-style: italic;
+  text-align: center;
+  line-height: 90px;
+  position: absolute;
+  top: 52%;
+  right: 30.72%;
+  opacity: 1;
+  transform-style: preserve-3d;
+  transition: 2s ease;
+}
+.textinside1{
+  width:240px;
+  height:90px;
+  background: white;
+border-color: yellow;
+  font-size: 28px;
+  color: yellow;
+  border-radius: 20px;
+  font-style: italic;
+  text-align: center;
+  line-height: 90px;
+  position: absolute;
+  top: 52%;
+  right: 50.72%;
+  opacity: 1;
+  transform-style: preserve-3d;
+  transition: 2s ease;
+}
+.textinside:after{
+  top: -320%;
+	left: 0px;
+	width: 100%;
+	position: absolute;
+	background: transparent;
+  border-style: solid;
+	border-radius: 20px;
+  font-size: 20px;
+	content: 'Proffer is a search engine for information that isn’t online.';
+	transform-origin: left bottom;
+	transform: rotateX(90deg);
+  transition: 2s ease;
+}
+.textinside1:after{
+  top: -320%;
+	left: 0px;
+	width: 100%;
+	position: absolute;
+	background: transparent;
+  border-style: solid;
+	border-radius: 20px;
+  font-size: 20px;
+	content: 'A Blockchain Protocol for Search with Expert Networks';
+	transform-origin: left bottom;
+	transform: rotateX(90deg);
+  transition: 2s ease;
+}
+.textinside1:hover{
+  transform-origin: center bottom;
+	transform: rotateY(-20deg) rotateX(-55deg) translateX(-100%);
+  transition: 2s ease;
+}
+.textinside:hover{
+  transform-origin: center bottom;
+	transform: rotateY(20deg)rotateX(-55deg) translateX(100%);
+  transition: 2s ease;
+}
